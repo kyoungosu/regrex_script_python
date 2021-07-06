@@ -177,3 +177,33 @@ TermSocket.open: Opened 1
 [I 16:01:28.788 NotebookApp] Saving file at /linearModel_python.py
 [I 16:08:15.369 NotebookApp] Saving file at /linearModel_python.py
 [I 16:10:07.720 NotebookApp] Saving file at /linearModel_python.py
+[I 18:02:55.256 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-07-06 18:02:57.097 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.098 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.098 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.098 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.098 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.098 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.098 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.099 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-06 18:02:57.099 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-07-06 18:02:57.099 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.099 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-07-06 18:02:57.099 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-07-06 18:02:57.115 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-07-06 18:02:57.115 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 18:02:57.130 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 18:02:57.133 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 18:02:57.134 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 18:02:57.134 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 18:02:57.135 NotebookApp] http://jupyter-kyoungosu-2dregrex-5fscript-5fpython-2dghpaz390:8888/user/kyoungosu-regrex_script_python-ghpaz390/?token=...
+[I 18:02:57.135 NotebookApp]  or http://127.0.0.1:8888/user/kyoungosu-regrex_script_python-ghpaz390/?token=...
+[I 18:02:57.135 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:02:57.147 NotebookApp] No web browser found: could not locate runnable browser.
+[I 18:02:59.432 NotebookApp] 302 GET /user/kyoungosu-regrex_script_python-ghpaz390/ (10.0.5.98) 1.220000ms
+[I 18:03:07.246 NotebookApp] 302 GET /user/kyoungosu-regrex_script_python-ghpaz390/?token=Y27MCM32Tqye56pv5Uixqg (24.142.141.179) 1.190000ms
+[W 18:08:29.985 NotebookApp] delete /hello_world_py.ipynb
+[W 18:08:29.994 NotebookApp] delete /hello_world_py.html
+[I 18:08:39.025 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
